@@ -7,3 +7,11 @@ Requirements
 •	Create a dashboard according to the requirements provided by stakeholders in the business review meeting 
 •	Create relevant insights that are not provided in the metric list/stakeholder meeting
 
+The project consists of the following phases
+- data cleaning
+- data visualisation
+- documentation
+
+Tools used
+- Power BI
+- MS Word
